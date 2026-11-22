@@ -2,7 +2,7 @@
 
 A Chrome extension that finds free UBC Vancouver teaching rooms for any date and time, in two clicks.
 
-![UBC Room Finder showing free Henry Angus rooms](store/screenshot-1280x800.png)
+![UBC Room Finder showing free Henry Angus rooms](docs/screenshot.png)
 
 ## Why I built this
 
@@ -37,8 +37,7 @@ extension/
 test/
   fake_sws.py     Stand-in timetable that mimics the real pages (forms, week labels, report tables, CWL redirect)
   run_tests.py    Loads the real extension in Chrome and runs 22 end-to-end checks against the fake timetable
-store/            Chrome Web Store listing text and the scripts that render its images
-tools/            Icon generator
+docs/             Screenshot used in this README
 ```
 
 ## Install
