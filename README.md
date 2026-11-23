@@ -42,7 +42,7 @@ docs/             Screenshot used in this README
 
 ## Install
 
-- **Chrome Web Store:** _link coming soon_
+- **Chrome Web Store:** [UBC Room Finder](https://chromewebstore.google.com/detail/jokkbdhjfphoplonamhdlphanjldpddn)
 - **From source:** download this repo, open `chrome://extensions`, turn on **Developer mode**, click **Load unpacked**, and select the `extension` folder.
 
 Then sign in to the [UBC Online Timetable](https://sws-van.as.it.ubc.ca/) once with CWL and click the Room Finder icon on any tab.
